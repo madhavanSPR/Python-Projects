@@ -28,7 +28,7 @@ cd projects
 ```
 - Go to the Palindrome-Number folder
 ```bash
-cd FLAMES
+cd FLAMES-Game
 ```
 - Run the following command
 ```bash
